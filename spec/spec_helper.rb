@@ -1,1 +1,1 @@
-require "hansons_method_generator"
+require "hansons_marathon_method_generator"

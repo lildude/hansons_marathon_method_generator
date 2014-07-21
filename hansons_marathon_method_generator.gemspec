@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'hansons_method_generator/version'
+require 'hansons_marathon_method_generator/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "hansons_method_generator"
-  spec.version       = HansonsMethodGenerator::VERSION
+  spec.name          = "hansons_marathon_method_generator"
+  spec.version       = HansonsMarathonMethodGenerator::VERSION
   spec.authors       = ["Colin Seymour"]
   spec.email         = ["lildood@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}

@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe HansonsMethodGenerator do
+describe HansonsMarathonMethodGenerator do
   it "does stuff" do
     pending # no code yet
   end
